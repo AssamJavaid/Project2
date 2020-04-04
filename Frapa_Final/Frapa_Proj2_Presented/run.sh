@@ -1,0 +1,1 @@
+FLASK_APP=frapa_original/app.py flask run
